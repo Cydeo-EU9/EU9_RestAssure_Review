@@ -77,5 +77,7 @@ public class APIReview {
         System.out.println(response.header("Date")); // content-type --> value
     }
 
-    // body
+    // get data from body
+
+
 }
