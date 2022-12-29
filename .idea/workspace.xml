@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f0f6d7-2076-48e2-8bf1-71cbc0c4362f" name="Changes" comment="office hour is added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week2/APIReview.java" afterDir="false" />
+    <list default="true" id="97f0f6d7-2076-48e2-8bf1-71cbc0c4362f" name="Changes" comment="office hour second week">
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week2/OtherMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week2/Pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week2/PojoClasses/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week2/PojoClasses/Spartan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/officeHour/week1/APIReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHour/week1/APIReview.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +62,8 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.APIReview.test6">
-    <configuration name="APIReview.test2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OtherMethods.test4">
+    <configuration name="OtherMethods.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9_RestAssure_Review" />
       <extension name="coverage">
         <pattern>
@@ -70,14 +72,30 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.APIReview" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtherMethods.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9_RestAssure_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week2" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APIReview.test3 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OtherMethods.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9_RestAssure_Review" />
       <extension name="coverage">
         <pattern>
@@ -86,14 +104,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.APIReview" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APIReview.test4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OtherMethods.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9_RestAssure_Review" />
       <extension name="coverage">
         <pattern>
@@ -102,14 +120,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.APIReview" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
       <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APIReview.test5 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Pojo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9_RestAssure_Review" />
       <extension name="coverage">
         <pattern>
@@ -118,24 +136,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.APIReview" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APIReview.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU9_RestAssure_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.APIReview" />
-      <option name="METHOD_NAME" value="test6" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week2.Pojo" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.APIReview.test6" />
-        <item itemvalue="JUnit.APIReview.test5 (1)" />
-        <item itemvalue="JUnit.APIReview.test4 (1)" />
-        <item itemvalue="JUnit.APIReview.test3 (1)" />
-        <item itemvalue="JUnit.APIReview.test2 (1)" />
+        <item itemvalue="JUnit.OtherMethods.test4" />
+        <item itemvalue="JUnit.OtherMethods.test3" />
+        <item itemvalue="JUnit.OtherMethods.test2" />
+        <item itemvalue="JUnit.OtherMethods.test1" />
+        <item itemvalue="JUnit.Pojo.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +176,7 @@
       <workItem from="1671201845160" duration="13678000" />
       <workItem from="1671318637386" duration="50000" />
       <workItem from="1671734399195" duration="2573000" />
-      <workItem from="1672337449151" duration="3285000" />
+      <workItem from="1672337449151" duration="5963000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1668351165119</created>
@@ -337,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671738571573</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="office hour second week">
+      <created>1672341073762</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672341073762</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,6 +385,7 @@
     <MESSAGE value="bootcamp review 6th push" />
     <MESSAGE value="bootcamp review 7th push" />
     <MESSAGE value="office hour is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="office hour is added" />
+    <MESSAGE value="office hour second week" />
+    <option name="LAST_COMMIT_MESSAGE" value="office hour second week" />
   </component>
 </project>
