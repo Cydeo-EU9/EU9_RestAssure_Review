@@ -10,7 +10,7 @@ public class SpecTest extends SpectTestBase{
     public void test1(){
         Response response = RestAssured.given().spec(reqSpec)
                 .when().get("/api/spartans/{id}")
-                .then().spec(resSpec).extract().response()  ;
+                .then().spec(resSpec).extract().response();
     }
 
 
