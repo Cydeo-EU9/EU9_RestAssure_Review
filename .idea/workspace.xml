@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f0f6d7-2076-48e2-8bf1-71cbc0c4362f" name="Changes" comment="office hour second week" />
+    <list default="true" id="97f0f6d7-2076-48e2-8bf1-71cbc0c4362f" name="Changes" comment="office hour second week">
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week3/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week3/ParametrizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week3/SchemaValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/officeHour/week3/SoapApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,82 +62,82 @@
       <recent name="week3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.OtherMethods.test4">
-    <configuration name="OtherMethods.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ParametrizedTest.test3">
+    <configuration name="Authentication.bearerToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9_RestAssure_Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="officeHour.week2.*" />
+          <option name="PATTERN" value="officeHour.week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
+      <option name="PACKAGE_NAME" value="officeHour.week3" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week3.Authentication" />
+      <option name="METHOD_NAME" value="bearerToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Authentication.spartanAuth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9_RestAssure_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week3" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week3.Authentication" />
+      <option name="METHOD_NAME" value="spartanAuth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParametrizedTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9_RestAssure_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week3" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week3.ParametrizedTest" />
+      <option name="METHOD_NAME" value="test3(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidation.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9_RestAssure_Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHour.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="officeHour.week3" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week3.SchemaValidation" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OtherMethods.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SoapApi.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9_RestAssure_Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="officeHour.week2.*" />
+          <option name="PATTERN" value="officeHour.week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OtherMethods.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU9_RestAssure_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OtherMethods.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU9_RestAssure_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.OtherMethods" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pojo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU9_RestAssure_Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="officeHour.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="officeHour.week2" />
-      <option name="MAIN_CLASS_NAME" value="officeHour.week2.Pojo" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="officeHour.week3" />
+      <option name="MAIN_CLASS_NAME" value="officeHour.week3.SoapApi" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OtherMethods.test4" />
-        <item itemvalue="JUnit.OtherMethods.test3" />
-        <item itemvalue="JUnit.OtherMethods.test2" />
-        <item itemvalue="JUnit.OtherMethods.test1" />
-        <item itemvalue="JUnit.Pojo.test2" />
+        <item itemvalue="JUnit.ParametrizedTest.test3" />
+        <item itemvalue="JUnit.SchemaValidation.test1" />
+        <item itemvalue="JUnit.SoapApi.test1" />
+        <item itemvalue="JUnit.Authentication.bearerToken" />
+        <item itemvalue="JUnit.Authentication.spartanAuth" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +177,7 @@
       <workItem from="1671318637386" duration="50000" />
       <workItem from="1671734399195" duration="2573000" />
       <workItem from="1672337449151" duration="6176000" />
+      <workItem from="1672941136213" duration="4378000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1668351165119</created>
@@ -347,7 +354,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672343920208</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="office hour second week">
+      <created>1672941148119</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1672941148119</updated>
+    </task>
+    <task id="LOCAL-00027" summary="office hour second week">
+      <created>1672941239221</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672941239221</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
